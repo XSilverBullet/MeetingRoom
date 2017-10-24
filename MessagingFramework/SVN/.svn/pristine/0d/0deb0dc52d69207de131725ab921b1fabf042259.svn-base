@@ -1,0 +1,20 @@
+{
+  "groups": [{
+    "name": "users",
+    "type": "com.siemens.cms.message.config.UsersConfig",
+    "sourceType": "com.siemens.cms.message.config.UsersConfig"
+  }],
+  "properties": [
+    {
+      "name": "users.config-file",
+      "type": "java.lang.String",
+      "sourceType": "com.siemens.cms.message.config.UsersConfig"
+    },
+    {
+      "name": "users.users",
+      "type": "java.util.List<com.siemens.cms.message.model.User>",
+      "sourceType": "com.siemens.cms.message.config.UsersConfig"
+    }
+  ],
+  "hints": []
+}

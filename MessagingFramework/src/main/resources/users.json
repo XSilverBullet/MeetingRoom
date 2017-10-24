@@ -1,0 +1,20 @@
+{
+  "users":[
+    {
+      "username":"cpop",
+      "password":"3ff56a0d370da6c3cd6c8ed29f2a036bf128f4a9eab0947324ec34e78f526750"
+    },
+    {
+      "username":"ngit",
+      "password":"64b3f1bf988656188198e23d564f35cd80ccc0718fbb061f87fa87c9611a6cf7"
+    },
+    {
+      "username":"emb",
+      "password":"19c0720e19fe47c36d802d8010074830e37cfc68af028a2cdabe79974e9561c6"
+    },
+    {
+      "username":"portal",
+      "password":"0d1a0540b31d2cbd578496bd8ad84415e35dd7049a67b33a6c65598147b9cefd"
+    }
+  ]
+}

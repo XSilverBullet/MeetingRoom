@@ -1,0 +1,14 @@
+com\siemens\cms\message\container\SpringContainerFactory.class
+com\siemens\cms\message\validators\Validator.class
+com\siemens\cms\message\brokerfilters\TokenAuthenticationBroker.class
+META-INF\spring-configuration-metadata.json
+com\siemens\cms\message\validators\JWTValidator.class
+com\siemens\cms\message\brokerplugins\TokenAuthenticationPlugin.class
+com\siemens\cms\message\utils\EncryptionUtil.class
+com\siemens\cms\message\brokerplugins\AuthenticationPlugin.class
+com\siemens\cms\message\model\User.class
+com\siemens\cms\message\config\UsersConfig.class
+com\siemens\cms\message\brokerfilters\AuthenticationBrokerFilter.class
+com\siemens\cms\message\MessagingApplication.class
+com\siemens\cms\message\config\MqttBrokerConfig.class
+com\siemens\cms\message\utils\FileUtil.class
